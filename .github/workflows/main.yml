@@ -14,7 +14,7 @@ jobs:
 
           user: kenranunderscore
           template: classic
-          base: header, community, metadata
+          base: header
           config_animations: no
           config_timezone: Europe/Berlin
           optimize: no
