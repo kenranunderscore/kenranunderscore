@@ -26,7 +26,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 0
-          plugin_languages_ignored: html,css
+          plugin_languages_ignored: html,css,vimscript,coffeescript,glsl,newlisp,dockerfile,yasnippet
 
           plugin_achievements: yes
           plugin_achievements_display: compact
