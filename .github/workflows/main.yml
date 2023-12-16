@@ -25,7 +25,8 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_details: percentage
-          plugin_languages_limit: 0
+          plugin_languages_limit: 20
+          plugin_languages_ignored: CSS, YASnippet, Dockerfile, NewLisp, GLSL, Vim Script, HTML, CoffeeScript
 
           plugin_achievements: yes
           plugin_achievements_display: detailed
