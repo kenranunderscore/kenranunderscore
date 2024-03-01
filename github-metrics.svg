@@ -1779,53 +1779,53 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="116.07611998910347" height="8" fill="#5e5086"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="116.0857027952358" height="8" fill="#5e5086"/>
             
-              <rect mask="url(#languages-bar)" x="116.07611998910347" y="0" width="65.34184299810019" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="116.0857027952358" y="0" width="65.3472373739101" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="181.41796298720368" y="0" width="64.54821298219173" height="8" fill="#7e7eff"/>
+              <rect mask="url(#languages-bar)" x="181.4329401691459" y="0" width="64.51556597598558" height="8" fill="#7e7eff"/>
             
-              <rect mask="url(#languages-bar)" x="245.96617596939538" y="0" width="47.787593295572876" height="8" fill="#3c5caa"/>
+              <rect mask="url(#languages-bar)" x="245.9485061451315" y="0" width="47.79153845881683" height="8" fill="#3c5caa"/>
             
-              <rect mask="url(#languages-bar)" x="293.75376926496824" y="0" width="37.50240867382016" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="293.7400446039483" y="0" width="37.50550473106131" height="8" fill="#b07219"/>
             
-              <rect mask="url(#languages-bar)" x="331.25617793878837" y="0" width="19.627560653178094" height="8" fill="#c065db"/>
+              <rect mask="url(#languages-bar)" x="331.2455493350096" y="0" width="19.629181030466786" height="8" fill="#c065db"/>
             
-              <rect mask="url(#languages-bar)" x="350.88373859196645" y="0" width="13.86492794026253" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="350.87473036547635" y="0" width="13.866072576355661" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="364.748666532229" y="0" width="13.373452345995235" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="364.74080294183204" y="0" width="13.374556407719242" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="378.1221188782242" y="0" width="12.419251937257734" height="8" fill="#db5855"/>
+              <rect mask="url(#languages-bar)" x="378.1153593495513" y="0" width="12.420277223799308" height="8" fill="#db5855"/>
             
-              <rect mask="url(#languages-bar)" x="390.54137081548197" y="0" width="10.641585797728006" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="390.5356365733506" y="0" width="10.642464326866037" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="401.18295661320997" y="0" width="10.267283192822447" height="8" fill="#ec915c"/>
+              <rect mask="url(#languages-bar)" x="401.17810090021663" y="0" width="10.268130820950882" height="8" fill="#ec915c"/>
             
-              <rect mask="url(#languages-bar)" x="411.4502398060324" y="0" width="8.151117306247693" height="8" fill="#ffc200"/>
+              <rect mask="url(#languages-bar)" x="411.4462317211675" y="0" width="8.151790231711733" height="8" fill="#ffc200"/>
             
-              <rect mask="url(#languages-bar)" x="419.60135711228014" y="0" width="7.451334175337303" height="8" fill="#ef7a08"/>
+              <rect mask="url(#languages-bar)" x="419.59802195287926" y="0" width="7.451949329348619" height="8" fill="#ef7a08"/>
             
-              <rect mask="url(#languages-bar)" x="427.05269128761745" y="0" width="6.298048178193512" height="8" fill="#244776"/>
+              <rect mask="url(#languages-bar)" x="427.04997128222794" y="0" width="6.2985681212680165" height="8" fill="#244776"/>
             
-              <rect mask="url(#languages-bar)" x="433.35073946581093" y="0" width="6.2177629817789875" height="8" fill="#dea584"/>
+              <rect mask="url(#languages-bar)" x="433.3485394034959" y="0" width="6.218276296810853" height="8" fill="#dea584"/>
             
-              <rect mask="url(#languages-bar)" x="439.56850244758994" y="0" width="5.503333227198379" height="8" fill="#000100"/>
+              <rect mask="url(#languages-bar)" x="439.5668157003068" y="0" width="5.503787561607582" height="8" fill="#000100"/>
             
-              <rect mask="url(#languages-bar)" x="445.0718356747883" y="0" width="5.200636338013885" height="8" fill="#3fb68b"/>
+              <rect mask="url(#languages-bar)" x="445.07060326191436" y="0" width="5.20106568291098" height="8" fill="#3fb68b"/>
             
-              <rect mask="url(#languages-bar)" x="450.2724720128022" y="0" width="3.7706918937659863" height="8" fill="#555555"/>
+              <rect mask="url(#languages-bar)" x="450.27166894482536" y="0" width="3.7710031878496104" height="8" fill="#555555"/>
             
-              <rect mask="url(#languages-bar)" x="454.0431639065682" y="0" width="2.277821214490487" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="454.04267213267497" y="0" width="2.2780092628083035" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="456.32098512105875" y="0" width="1.3160262601462067" height="8" fill="#00ADD8"/>
+              <rect mask="url(#languages-bar)" x="456.32068139548323" y="0" width="1.3161349063045829" height="8" fill="#00ADD8"/>
             
-              <rect mask="url(#languages-bar)" x="457.6370113812049" y="0" width="1.032315734978661" height="8" fill="#32AB90"/>
+              <rect mask="url(#languages-bar)" x="457.6368163017878" y="0" width="1.0324009590674448" height="8" fill="#32AB90"/>
             
-              <rect mask="url(#languages-bar)" x="458.6693271161836" y="0" width="0.7355859887709219" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="458.66921726085525" y="0" width="0.7356467159723885" height="8" fill="#427819"/>
             
-              <rect mask="url(#languages-bar)" x="459.4049131049545" y="0" width="0.40251091715930976" height="8" fill="#fff3d7"/>
+              <rect mask="url(#languages-bar)" x="459.40486397682764" y="0" width="0.4025441469406433" height="8" fill="#fff3d7"/>
             
-              <rect mask="url(#languages-bar)" x="459.8074240221138" y="0" width="0.19257597788619266" height="8" fill="#dfafff"/>
+              <rect mask="url(#languages-bar)" x="459.8074081237683" y="0" width="0.19259187623170937" height="8" fill="#dfafff"/>
             
           </svg>
         
@@ -1842,7 +1842,7 @@
                     <small>
                       
                       
-                       <div>25.23%</div>
+                       <div>25.24%</div>
                     </small>
                   </div>
                 
@@ -1990,7 +1990,7 @@
                     <small>
                       
                       
-                       <div>14.2%</div>
+                       <div>14.21%</div>
                     </small>
                   </div>
                 
@@ -2451,7 +2451,7 @@
                   <span class="prefix">Master</span> developer
                   
                     <span class="gh">
-                      ranked 139k out of 130m users
+                      ranked 139k out of 131m users
                     </span>
                   
                   
@@ -2587,7 +2587,7 @@
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 101k out of 81.7m repositories
+                      ranked 101k out of 96.6m repositories
                     </span>
                   
                   
@@ -2690,7 +2690,7 @@
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 924k out of 130m users
+                      ranked 924k out of 131m users
                     </span>
                   
                   
@@ -2760,7 +2760,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 2.63m out of 81.7m repositories
+                      ranked 2.63m out of 96.6m repositories
                     </span>
                   
                   
